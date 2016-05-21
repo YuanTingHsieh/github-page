@@ -12,12 +12,17 @@ body {
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
 .cvsubtitle {
   font-weight: bold;
+  float: left;
+}
+
+.alignright{
+  float: right;
 }
 
 section {
